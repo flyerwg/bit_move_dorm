@@ -1,6 +1,6 @@
 # 2020年北京理工大学强制将毕业生物品寄走事件
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](../../graphs/contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](../../graphs/contributors)
 
 注：部分内容整理自知乎、微博、同学群、问题反馈群的相关讨论
 
@@ -232,3 +232,11 @@
 学院书记先要求宿舍必须清空，不给出任何理由，学生要求和领导沟通，学工部副部长向学生解答问题，表示可以自愿选择把行李留存在宿舍。
 
 我相信无论是学校，学院，初衷都是好的，只是在具体执行的过程中，一些参与人员的添油加醋，脑补臆想和官僚作风，把好事办坏了，受害者无非是老师、学生、负责人，真的把事情做坏了的人，又在制造矛盾，让老师和学生，学生和学院对立，教职工学生都有话说不出，这些废物倒是把锅甩得干干净净。我们不能因为个别部门个别领导的个别举措，就上升到学校如何如何垃圾，我们都希望问题能圆满解决，希望各位老师同学相互理解，希望学校越来越好。
+
+## 反馈渠道
+
+[北京市教育委员会](http://jw.beijing.gov.cn/)市民服务热线：12345
+
+[教育部](http://www.moe.gov.cn/)[投诉举报](http://www.moe.gov.cn/jyb_hygq/hygq_tsjb/201505/t20150520_184529.html)电话：010-66092315/3315，邮箱：12391@moe.edu.cn
+
+[国家信访局](http://www.gjxfj.gov.cn/gjxfj/wsxf/A0903index_1.htm)、[北京市网上信访](http://wsxf.xfb.beijing.gov.cn/)
