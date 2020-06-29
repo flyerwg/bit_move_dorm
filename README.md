@@ -1,6 +1,6 @@
 # 2020年北京理工大学强制将毕业生物品寄走事件
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](../../graphs/contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg)](../../graphs/contributors) [![forks](https://img.shields.io/badge/forks-1-orange.svg)](../../network/members) [![LICENSE](https://img.shields.io/badge/license-Anti_996-blue.svg)](LICENSE)
 
 注：部分内容整理自知乎、微博、同学群、问题反馈群的相关讨论
 
