@@ -242,3 +242,6 @@
 [国家信访局](http://www.gjxfj.gov.cn/gjxfj/wsxf/A0903index_1.htm)、[北京市网上信访](http://wsxf.xfb.beijing.gov.cn/)
 
 张军校长邮箱：buaazhangjun@vip.sina.com（不确定是否仍然在使用）
+
+姚院长邮箱：ygyao@bit.edu.cn
+
