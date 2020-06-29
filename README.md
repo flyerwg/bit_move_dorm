@@ -240,8 +240,9 @@
 
 想直接参与该项目
 
-* 参考：[如何参与Github上的开源项目](https://www.jianshu.com/p/a8de24f8a845)
-* 或者：直接在 issue 区提交你的想法，等待项目的其他参与者采纳
+* fork此项目，进行修改，然后提交[Pull request](../../pulls)
+  * 参考：[如何参与Github上的开源项目](https://www.jianshu.com/p/a8de24f8a845)
+* 或者：直接在[Issues区](../../issues)提交你的想法，等待项目的其他参与者采纳
 
 想对问题的解决作出贡献
 
