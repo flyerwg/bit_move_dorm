@@ -1,6 +1,6 @@
 # 2020年北京理工大学强制将毕业生物品寄走事件
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg)](../../graphs/contributors) [![forks](https://img.shields.io/badge/forks-1-orange.svg)](../../network/members) [![LICENSE](https://img.shields.io/badge/license-Anti_996-blue.svg)](LICENSE)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg)](../../graphs/contributors) [![forks](https://img.shields.io/badge/forks-2-orange.svg)](../../network/members) [![LICENSE](https://img.shields.io/badge/license-Anti_996-blue.svg)](LICENSE)
 
 注：部分内容整理自知乎、微博、同学群、问题反馈群的相关讨论
 
@@ -168,7 +168,7 @@
 
 ### 6月29日 周一
 
-下午，某班班主任在班群内发送了[委托书](0629/1、委托办理离校相关事项登记表.docx)，并表示委托部分请**每个同学根据自己的意愿填写**。
+下午，某班班主任在班群内发送了[委托书](0629/1、委托办理离校相关事项登记表.docx)，并表示委托部分请**每个同学根据自己的意愿填写**。要求明天（30日）晚上之前提交。
 
 ![委托书相关要求](0629/委托书相关要求.jpg)
 
