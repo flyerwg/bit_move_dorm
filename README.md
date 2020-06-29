@@ -245,3 +245,5 @@
 
 姚院长邮箱：ygyao@bit.edu.cn
 
+欧阳院长邮箱：jtouyang@bit.edu.cn
+
