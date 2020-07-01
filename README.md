@@ -1,6 +1,6 @@
 # 2020年北京理工大学强制将毕业生物品寄走事件
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg)](../../graphs/contributors) [![forks](https://img.shields.io/badge/forks-2-orange.svg)](../../network/members) [![LICENSE](https://img.shields.io/badge/license-Anti_996-blue.svg)](LICENSE)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg)](https://github.com/flyerwg/bit_move_dorm/graphs/contributors) [![forks](https://img.shields.io/badge/forks-2-orange.svg)](https://github.com/flyerwg/bit_move_dorm/network/members) [![LICENSE](https://img.shields.io/badge/license-Anti_996-blue.svg)](LICENSE)
 
 注：部分内容整理自知乎、微博、同学群、问题反馈群的相关讨论
 
@@ -278,7 +278,7 @@
 
 * fork此项目，进行修改，然后提交[Pull request](../../pulls)
   * 参考：[如何参与Github上的开源项目](https://www.jianshu.com/p/a8de24f8a845)
-* 或者：直接在[Issues区](../../issues)提交你的想法，等待项目的其他参与者采纳
+* 或者：直接在[Issues区](https://github.com/flyerwg/bit_move_dorm/issues)提交你的想法，等待项目的其他参与者采纳
 
 想对问题的解决作出贡献
 
