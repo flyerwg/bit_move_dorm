@@ -333,19 +333,22 @@
 
 ## 反馈渠道
 
-[北京市教育委员会](http://jw.beijing.gov.cn/)市民服务热线：12345
+政府层面：
 
-[教育部](http://www.moe.gov.cn/)[投诉举报](http://www.moe.gov.cn/jyb_hygq/hygq_tsjb/201505/t20150520_184529.html)电话：010-66092315/3315，邮箱：12391@moe.edu.cn
+* [北京市教育委员会](http://jw.beijing.gov.cn/)市民服务热线：12345。
+* [教育部](http://www.moe.gov.cn/)[投诉举报](http://www.moe.gov.cn/jyb_hygq/hygq_tsjb/201505/t20150520_184529.html)电话：010-66092315/3315，邮箱：12391@moe.edu.cn。
+* [国家信访局](http://www.gjxfj.gov.cn/gjxfj/wsxf/A0903index_1.htm)、[北京市网上信访](http://wsxf.xfb.beijing.gov.cn/)。
 
-[国家信访局](http://www.gjxfj.gov.cn/gjxfj/wsxf/A0903index_1.htm)、[北京市网上信访](http://wsxf.xfb.beijing.gov.cn/)
+学校层面：
 
-北京理工大学校长信箱：president@bit.edu.cn
+* 北京理工大学校长信箱：president@bit.edu.cn。
+* 张军校长邮箱：buaazhangjun@vip.sina.com（不确定是否仍然在使用）。
 
-张军校长邮箱：buaazhangjun@vip.sina.com（不确定是否仍然在使用）
+物理学院层面：
 
-姚院长邮箱：ygyao@bit.edu.cn
-
-欧阳院长邮箱：jtouyang@bit.edu.cn
+* 院长姚裕贵邮箱：ygyao@bit.edu.cn。
+* 本科生院院长欧阳吉庭邮箱：jtouyang@bit.edu.cn。
+* 学院书记王晶晶电话：13811020209。
 
 # 贡献方式
 
