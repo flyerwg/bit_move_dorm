@@ -14,6 +14,7 @@ def gen_index(path):
     'Generate index file for the dir *path*'
     filename = os.path.join(path,'README.md')
     with open(filename, 'w', encoding='utf-8') as f:
+        f.write(f'## {path}')
         for target in os.listdir(path):
             name, suffix = target.rsplit('.', 1)
             suffix = suffix.lower()
