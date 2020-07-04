@@ -6,6 +6,7 @@ View https://flyerwg.github.io/bit_move_dorm/ to test the effect.
 
 import os
 
+path_block = ['.git']
 suffix_block = ['md', 'py']
 suffix_img = ['jpg', 'jpeg', 'png', 'bmp']
 
@@ -24,6 +25,8 @@ def gen_index(path):
 
 def main():
     for path in os.listdir():
+        if not os.path.isdir(path): continue
+        if path in path_block: continue
         gen_index(path)
 
 if __name__ == '__main__':
