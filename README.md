@@ -1,6 +1,6 @@
 # 2020年北京理工大学强制将毕业生宿舍行李物品寄走事件
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg)](https://github.com/flyerwg/bit_move_dorm/graphs/contributors) [![forks](https://img.shields.io/badge/forks-2-orange.svg)](https://github.com/flyerwg/bit_move_dorm/network/members) [![LICENSE](https://img.shields.io/badge/license-Anti_996-blue.svg)](LICENSE) <iframe src="star.html" frameborder="0" scrolling="0" width="72" height="28" title="Star"></iframe>
+[![Stars](https://img.shields.io/github/stars/flyerwg/bit_move_dorm.svg?style=social)](https://github.com/flyerwg/bit_move_dorm/) [![forks](https://img.shields.io/github/forks/flyerwg/bit_move_dorm.svg?style=social)](https://github.com/flyerwg/bit_move_dorm/network/members) [![All Contributors](https://img.shields.io/github/contributors/flyerwg/bit_move_dorm.svg?color=orange)](https://github.com/flyerwg/bit_move_dorm/graphs/contributors) [![LICENSE](https://img.shields.io/badge/license-Anti_996-blue.svg)](LICENSE) 
 
 [查看网页版：https://flyerwg.github.io/bit_move_dorm/](https://flyerwg.github.io/bit_move_dorm/)
 
