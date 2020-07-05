@@ -2,6 +2,8 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg)](https://github.com/flyerwg/bit_move_dorm/graphs/contributors) [![forks](https://img.shields.io/badge/forks-2-orange.svg)](https://github.com/flyerwg/bit_move_dorm/network/members) [![LICENSE](https://img.shields.io/badge/license-Anti_996-blue.svg)](LICENSE)
 
+查看网页版：https://flyerwg.github.io/bit_move_dorm/
+
 注：部分内容整理自知乎、微博、同学群、问题反馈群的相关讨论
 
 ## 目录
@@ -348,7 +350,7 @@
 
 想直接参与该项目
 
-* fork此项目，进行修改，然后提交[Pull request](../../pulls)
+* fork此项目，进行修改，然后提交[Pull request](https://github.com/flyerwg/bit_move_dorm/pulls)
   * 参考：[如何参与Github上的开源项目](https://www.jianshu.com/p/a8de24f8a845)
 * 或者：直接在[Issues区](https://github.com/flyerwg/bit_move_dorm/issues)提交你的想法，等待项目的其他参与者采纳
 
