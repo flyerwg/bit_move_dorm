@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg)](https://github.com/flyerwg/bit_move_dorm/graphs/contributors) [![forks](https://img.shields.io/badge/forks-2-orange.svg)](https://github.com/flyerwg/bit_move_dorm/network/members) [![LICENSE](https://img.shields.io/badge/license-Anti_996-blue.svg)](LICENSE)
 
-查看网页版：https://flyerwg.github.io/bit_move_dorm/
+[查看网页版：https://flyerwg.github.io/bit_move_dorm/](https://flyerwg.github.io/bit_move_dorm/)
 
 注：部分内容整理自知乎、微博、同学群、问题反馈群的相关讨论
 
