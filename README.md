@@ -1,6 +1,6 @@
 # 2020年北京理工大学强制将毕业生宿舍行李物品寄走事件
 
-[![Stars](https://img.shields.io/github/stars/flyerwg/bit_move_dorm.svg?style=social)](https://github.com/flyerwg/bit_move_dorm/) [![forks](https://img.shields.io/github/forks/flyerwg/bit_move_dorm.svg?style=social)](https://github.com/flyerwg/bit_move_dorm/network/members) [![All Contributors](https://img.shields.io/github/contributors/flyerwg/bit_move_dorm.svg?color=orange)](https://github.com/flyerwg/bit_move_dorm/graphs/contributors) [![LICENSE](https://img.shields.io/badge/license-Anti_996-blue.svg)](LICENSE) 
+[![Stars](https://img.shields.io/github/stars/flyerwg/bit_move_dorm.svg?style=social)](https://github.com/flyerwg/bit_move_dorm/) [![forks](https://img.shields.io/github/forks/flyerwg/bit_move_dorm.svg?style=social)](https://github.com/flyerwg/bit_move_dorm/network/members) [![All Contributors](https://img.shields.io/github/contributors/flyerwg/bit_move_dorm.svg?color=orange)](https://github.com/flyerwg/bit_move_dorm/graphs/contributors) [![LICENSE](https://img.shields.io/badge/license-Anti_996-blue.svg)](https://github.com/flyerwg/bit_move_dorm/blob/master/LICENSE) 
 
 [查看网页版：https://flyerwg.github.io/bit_move_dorm/](https://flyerwg.github.io/bit_move_dorm/)
 
