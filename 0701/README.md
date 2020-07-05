@@ -1,5 +1,7 @@
 ## 0701
 
+共5个文件，[在网页中查看](https://flyerwg.github.io/bit_move_dorm/0701/)，[在Github中查看](https://github.com/flyerwg/bit_move_dorm/tree/master/0701/)
+
 * [代存代寄通知](#代存代寄通知)
 * [寄行李学院通知](#寄行李学院通知)
 * [贵重物品和大宗行李分开](#贵重物品和大宗行李分开)

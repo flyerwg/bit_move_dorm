@@ -1,5 +1,7 @@
 ## 0620
 
+共6个文件，[在网页中查看](https://flyerwg.github.io/bit_move_dorm/0620/)，[在Github中查看](https://github.com/flyerwg/bit_move_dorm/tree/master/0620/)
+
 * [下周一二发书面通知](#下周一二发书面通知)
 * [法学院要求清宿舍](#法学院要求清宿舍)
 * [知乎回答](#知乎回答)

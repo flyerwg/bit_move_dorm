@@ -1,5 +1,7 @@
 ## 0625
 
+共4个文件，[在网页中查看](https://flyerwg.github.io/bit_move_dorm/0625/)，[在Github中查看](https://github.com/flyerwg/bit_move_dorm/tree/master/0625/)
+
 * [北大允许返校通知](#北大允许返校通知)
 * [希望学生要有大局和总体观念](#希望学生要有大局和总体观念)
 * [强调工作量](#强调工作量)

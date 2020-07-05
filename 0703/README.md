@@ -1,5 +1,7 @@
 ## 0703
 
+共5个文件，[在网页中查看](https://flyerwg.github.io/bit_move_dorm/0703/)，[在Github中查看](https://github.com/flyerwg/bit_move_dorm/tree/master/0703/)
+
 * [东西有些乱](#东西有些乱)
 * [打包完成通知](#打包完成通知)
 * [未进行视频通话还嫌学生东西多](#未进行视频通话还嫌学生东西多)

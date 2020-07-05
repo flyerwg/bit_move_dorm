@@ -1,5 +1,7 @@
 ## 其他
 
+共8个文件，[在网页中查看](https://flyerwg.github.io/bit_move_dorm/其他/)，[在Github中查看](https://github.com/flyerwg/bit_move_dorm/tree/master/其他/)
+
 * [北师大诉求](#北师大诉求)
 * [官方回应下的微博评论](#官方回应下的微博评论)
 * [情趣内衣](#情趣内衣)

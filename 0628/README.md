@@ -1,5 +1,7 @@
 ## 0628
 
+共4个文件，[在网页中查看](https://flyerwg.github.io/bit_move_dorm/0628/)，[在Github中查看](https://github.com/flyerwg/bit_move_dorm/tree/master/0628/)
+
 * [仍然要求打包集中代存](#仍然要求打包集中代存)
 * [关于是否可以暂存宿舍](#关于是否可以暂存宿舍)
 * [委托书时间安排](#委托书时间安排)
