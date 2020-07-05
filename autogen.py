@@ -15,14 +15,22 @@ def gen_index(path):
     filename = os.path.join(path,'README.md')
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(f'## {path}\n\n')
-        for target in sorted(os.listdir(path)):
+        targets = sorted(os.listdir(path))
+        for target in targets:
             name, suffix = target.rsplit('.', 1)
             suffix = suffix.lower()
             if suffix in suffix_block: continue
+            f.write(f'* [{name}](#{name})\n')
+        f.write('\n')
+        for target in targets:
+            name, suffix = target.rsplit('.', 1)
+            suffix = suffix.lower()
+            if suffix in suffix_block: continue
+            f.write(f'### {name}\n\n')
             if suffix in suffix_img:
                 f.write(f'![{name}]({target})\n\n')
                 continue
-            f.write(f'[{name}]({target})\n\n')
+            f.write(f'[{target}]({target})\n\n')
 
 def main():
     for path in os.listdir():
