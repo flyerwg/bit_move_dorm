@@ -1,6 +1,6 @@
 import os, re, sys
 
-path_block = ['.git', 'build']
+path_block = ['.git', 'build', '__pycache__']
 suffix_block = ['md', 'py']
 suffix_img = ['jpg', 'jpeg', 'png', 'bmp']
 
