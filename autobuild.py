@@ -3,18 +3,13 @@
 '''Auto build files for release.
 '''
 
-import os, re
+from common import *
 import urllib.request as request
 import urllib.parse as parse
 
-path_block = ['.git', 'build']
-suffix_block = ['md', 'py']
-
-webpage_root = 'https://flyerwg.github.io/bit_move_dorm/'
-github_root = 'https://github.com/flyerwg/bit_move_dorm/tree/master/'
 build_path = os.path.join('build', 'bit_move_dorm')
-
 other_files = [('assets','css','style.css')]
+threshold_size = 3 << 20
 
 def download(url, filename, processor = None, encoding = 'utf-8'):
     print(f'downloading {url}')
@@ -47,23 +42,30 @@ def processor_subdir(html):
     html = html.replace('"/bit_move_dorm/','"../')
     return html
 
-def crawl_index(path):
+def crawl_index(path, mode):
     'crawl Github page for the dir *path*'
     webpage_path = webpage_root + parse.quote(path) + '/'
     local_path = os.path.join(build_path, path)
     filename = os.path.join(local_path,'index.html')
-    download(webpage_path, filename, processor_subdir)
+    if not os.path.exists(filename):
+        download(webpage_path, filename, processor_subdir)
     for target in sorted(os.listdir(path)):
         name, suffix = target.rsplit('.', 1)
         suffix = suffix.lower()
         if suffix in suffix_block: continue
         filename_from = os.path.join(path, target)
         filename_to = os.path.join(local_path, target)
+        if os.path.exists(filename_to):
+            os.remove(filename_to)
+        if mode == 'size':
+            filesize = os.path.getsize(filename_from)
+            if filesize > threshold_size: continue
+        if mode == 'img' and suffix not in suffix_img: continue
         with open(filename_from, 'rb') as f_from:
             with open(filename_to, 'wb') as f_to:
                 f_to.write(f_from.read())
 
-def main():
+def main(mode = 'all'): # mode: all, size, img
     filename = os.path.join(build_path,'index.html')
     download(webpage_root, filename, processor_root)
     for names in other_files:
@@ -74,7 +76,10 @@ def main():
     for path in os.listdir():
         if not os.path.isdir(path): continue
         if path in path_block: continue
-        crawl_index(path)
+        crawl_index(path, mode)
 
 if __name__ == '__main__':
-    main()
+    if len(sys.argv) > 1:
+        main(sys.argv[1])
+    else:
+        main()

@@ -4,14 +4,7 @@
 View https://flyerwg.github.io/bit_move_dorm/ to test the effect.
 '''
 
-import os
-
-path_block = ['.git']
-suffix_block = ['md', 'py']
-suffix_img = ['jpg', 'jpeg', 'png', 'bmp']
-
-webpage_root = 'https://flyerwg.github.io/bit_move_dorm/'
-github_root = 'https://github.com/flyerwg/bit_move_dorm/tree/master/'
+from common import *
 
 def gen_index(path):
     'Generate index file for the dir *path*'
@@ -33,6 +26,11 @@ def gen_index(path):
         f.write('\n')
         for target, name, suffix in targets:
             f.write(f'### {name}\n\n')
+            filesize = os.path.getsize(os.path.join(path, target))
+            size_str = strsize(filesize)
+            webpage_url = webpage_path + target
+            github_url = github_path + target
+            f.write(f'文件大小：{size_str}，[下载]({webpage_url})，[在Github中查看]({github_url})\n\n')
             if suffix in suffix_img:
                 f.write(f'![{name}]({target})\n\n')
                 continue
