@@ -28,8 +28,8 @@ def gen_index(path):
             f.write(f'### {name}\n\n')
             filesize = os.path.getsize(os.path.join(path, target))
             size_str = strsize(filesize)
-            webpage_url = webpage_path + target + '/'
-            github_url = github_path + target + '/'
+            webpage_url = webpage_path + target
+            github_url = github_path + target
             f.write(f'文件大小：{size_str}，[下载]({webpage_url})，[在Github中查看]({github_url})\n\n')
             if suffix in suffix_img:
                 f.write(f'![{name}]({target})\n\n')
