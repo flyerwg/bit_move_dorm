@@ -2,12 +2,12 @@
 
 [![Stars](https://img.shields.io/github/stars/flyerwg/bit_move_dorm.svg?style=social)](https://github.com/flyerwg/bit_move_dorm/) [![forks](https://img.shields.io/github/forks/flyerwg/bit_move_dorm.svg?style=social)](https://github.com/flyerwg/bit_move_dorm/network/members) [![All Contributors](https://img.shields.io/github/contributors/flyerwg/bit_move_dorm.svg?color=orange)](https://github.com/flyerwg/bit_move_dorm/graphs/contributors) [![LICENSE](https://img.shields.io/badge/license-Anti_996-blue.svg)](https://github.com/flyerwg/bit_move_dorm/blob/master/LICENSE) 
 
-[查看网页版：https://flyerwg.github.io/bit_move_dorm/](https://flyerwg.github.io/bit_move_dorm/)
+查看网页版：[https://flyerwg.github.io/bit_move_dorm/](https://flyerwg.github.io/bit_move_dorm/)
 
-下载以便离线阅读：[最新版](https://github.com/flyerwg/bit_move_dorm/releases/tag/v1.0.0) [历史版本](https://github.com/flyerwg/bit_move_dorm/releases)
+下载以便离线阅读：[最新版](https://github.com/flyerwg/bit_move_dorm/releases/latest) [历史版本](https://github.com/flyerwg/bit_move_dorm/releases)
 
 * [网页版](https://github.com/flyerwg/bit_move_dorm/releases/download/v1.0.0/bit_move_dorm_1_0_0.zip)
-* [项目文件打包下载](https://github.com/flyerwg/bit_move_dorm/archive/v1.0.0.zip)
+* [项目文件打包下载](https://github.com/flyerwg/bit_move_dorm/archive/master.zip)
 
 注：部分内容整理自知乎、微博、同学群、问题反馈群的相关讨论
 
