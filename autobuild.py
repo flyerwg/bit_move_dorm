@@ -9,7 +9,7 @@ import urllib.parse as parse
 
 build_path = os.path.join('build', 'bit_move_dorm')
 other_files = [('assets','css','style.css')]
-threshold_size = 1 << 20
+threshold_size = 3 << 20
 
 def download(url, filename, processor = None, encoding = 'utf-8'):
     print(f'downloading {url}')
