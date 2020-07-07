@@ -6,7 +6,7 @@
 
 下载以便离线阅读：[最新版](https://github.com/flyerwg/bit_move_dorm/releases/latest) [历史版本](https://github.com/flyerwg/bit_move_dorm/releases)
 
-* [PDF - 仅首页](https://github.com/flyerwg/bit_move_dorm/releases/download/v1.1.1/2020年北京理工大学强制将毕业生宿舍行李物品寄走事件v1.1.1.pdf)
+* [PDF - 仅首页](https://github.com/flyerwg/bit_move_dorm/releases/download/v1.1.1/bit_move_dorm_1_1_1_home.pdf)
 * [网页 - 完整版](https://github.com/flyerwg/bit_move_dorm/releases/download/v1.1.1/bit_move_dorm_1_1_1_full.zip)
 * [网页 - 仅小文件](https://github.com/flyerwg/bit_move_dorm/releases/download/v1.1.1/bit_move_dorm_1_1_1_size_reduced.zip)
 * [网页 - 仅图片](https://github.com/flyerwg/bit_move_dorm/releases/download/v1.1.1/bit_move_dorm_1_1_1_image_only.zip)
