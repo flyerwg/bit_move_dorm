@@ -27,7 +27,7 @@
 
 ### 自愿政策不是针对所有学生的
 
-文件大小：51.8 KB，[下载](https://flyerwg.github.io/bit_move_dorm/0621/自愿政策不是针对所有学生的.jpg)，[在Github中查看](https://github.com/flyerwg/bit_move_dorm/tree/master/0621/自愿政策不是针对所有学生的.jpg)
+文件大小：59.3 KB，[下载](https://flyerwg.github.io/bit_move_dorm/0621/自愿政策不是针对所有学生的.jpg)，[在Github中查看](https://github.com/flyerwg/bit_move_dorm/tree/master/0621/自愿政策不是针对所有学生的.jpg)
 
 ![自愿政策不是针对所有学生的](自愿政策不是针对所有学生的.jpg)
 

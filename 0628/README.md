@@ -15,7 +15,7 @@
 
 ### 关于是否可以暂存宿舍
 
-文件大小：31.8 KB，[下载](https://flyerwg.github.io/bit_move_dorm/0628/关于是否可以暂存宿舍.jpg)，[在Github中查看](https://github.com/flyerwg/bit_move_dorm/tree/master/0628/关于是否可以暂存宿舍.jpg)
+文件大小：33.8 KB，[下载](https://flyerwg.github.io/bit_move_dorm/0628/关于是否可以暂存宿舍.jpg)，[在Github中查看](https://github.com/flyerwg/bit_move_dorm/tree/master/0628/关于是否可以暂存宿舍.jpg)
 
 ![关于是否可以暂存宿舍](关于是否可以暂存宿舍.jpg)
 
