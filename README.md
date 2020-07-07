@@ -6,9 +6,10 @@
 
 下载以便离线阅读：[最新版](https://github.com/flyerwg/bit_move_dorm/releases/latest) [历史版本](https://github.com/flyerwg/bit_move_dorm/releases)
 
-* [网页 - 完整版](https://github.com/flyerwg/bit_move_dorm/releases/download/v1.1.0/bit_move_dorm_1_1_0_full.zip)
-* [网页 - 仅小文件](https://github.com/flyerwg/bit_move_dorm/releases/download/v1.1.0/bit_move_dorm_1_1_0_size_reduced.zip)
-* [网页 - 仅图片](https://github.com/flyerwg/bit_move_dorm/releases/download/v1.1.0/bit_move_dorm_1_1_0_image_only.zip)
+* [PDF - 仅首页](https://github.com/flyerwg/bit_move_dorm/releases/download/v1.1.1/2020年北京理工大学强制将毕业生宿舍行李物品寄走事件v1.1.1.pdf)
+* [网页 - 完整版](https://github.com/flyerwg/bit_move_dorm/releases/download/v1.1.1/bit_move_dorm_1_1_1_full.zip)
+* [网页 - 仅小文件](https://github.com/flyerwg/bit_move_dorm/releases/download/v1.1.1/bit_move_dorm_1_1_1_size_reduced.zip)
+* [网页 - 仅图片](https://github.com/flyerwg/bit_move_dorm/releases/download/v1.1.1/bit_move_dorm_1_1_1_image_only.zip)
 * [项目文件打包](https://github.com/flyerwg/bit_move_dorm/archive/master.zip)
 
 注：部分内容整理自[知乎](https://www.zhihu.com/)、[微博](https://weibo.com/)、同学群、问题反馈群的相关讨论
